@@ -1,0 +1,49 @@
+body{ 
+    background-color: pink;
+}
+p{
+    background-color: aquamarine;
+}
+a{
+    background-color: rgb(236, 165, 165);
+}
+.red{
+    background-color: red;
+}
+#firstdiv{
+    background-color: rgb(151, 32, 32); 
+}
+#Seconddiv{
+background-color: darkmagenta;
+}
+.red{
+    color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+a :hover{
+    background-color: red;
+}
+h1{
+    background-color: black;
+    color: blue;
+    text-decoration: line-through;
+    text-size-adjust: 21;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
+#comment{
+    background-color: red;
+    border: 3px;
+    font-weight: 200;
+}
+p{
+    border: 5px double black;
+}
